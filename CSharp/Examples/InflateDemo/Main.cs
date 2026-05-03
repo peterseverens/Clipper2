@@ -12,9 +12,7 @@ using System;
 using System.IO;
 using System.Reflection;
 using CsvHelper;
-using System.Commandline;
-using System.Commandline.Parsing;
-using System.Data.Entity.Core.Common.EntitySql;
+ 
 
 
 #if USINGZ
