@@ -33,7 +33,7 @@ namespace InflateDemo
 
     public static void Main(string[] args)
     {
-      ParseResult parseResult = rootCommand.Parse(args);
+      //ParseResult parseResult = rootCommand.Parse(args);
       PathD data = new PathD();
       PathsD dataSets = new PathsD();
       using (var reader = new StreamReader("d:/del/test.csv"))
